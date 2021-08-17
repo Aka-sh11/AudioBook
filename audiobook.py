@@ -116,7 +116,7 @@ def main():
     print("Done")
 
     # Initialize the Pytesseract OCR software
-    pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe"
+    # pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe"
 
 
     mytext = []
